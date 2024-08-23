@@ -2,7 +2,6 @@
 File:    file_system.py
 Author:  Jason Appiah-Kubi
 Date:    12/1/22
-Section: 056
 E-mail:  jasona2@umbc.edu
 Description:
   simulated file system
